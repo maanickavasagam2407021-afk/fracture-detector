@@ -1,0 +1,5 @@
+{
+  "name": "FracturePulse AI",
+  "description": "Advanced bone vibration signal analysis tool for fracture detection and severity classification using AI.",
+  "requestFramePermissions": ["serial"]
+}
